@@ -37,7 +37,7 @@
   }
    */
    .login-container{
-    background-image: url("C:\Users\ASUS\Desktop\MERN-RECIPE-CODE\client\public\images\foodrecipe.jpg"); /* Adjust the URL path as per your project structure */
+    background-image: url("../../../../img/foodrecipe.jpg"); /* Adjust the URL path as per your project structure */
     background-size: cover; 
     background-position: center;
     height: 90vh;
